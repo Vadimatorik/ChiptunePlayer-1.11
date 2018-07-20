@@ -1,0 +1,5 @@
+#ifndef MODBUS_RTU_MASTER
+#define MODBUS_RTU_MASTER
+
+#endif // MODBUS_RTU_MASTER
+
